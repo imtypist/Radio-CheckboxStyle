@@ -1,5 +1,5 @@
 var labelHeight = 20;
-var borderColor = "#0079bc";
+var borderColor = "#fffa48";
 var changeSpeed = "0.5s";
 
 var radiochoice = document.getElementsByClassName("radio-choice");

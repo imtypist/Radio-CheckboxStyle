@@ -4,6 +4,7 @@
 
 #### Preview
 ![Radio](https://github.com/AwesomeIcon/Radio-CheckboxStyle/blob/master/preview/radio.gif)
+![Radio](https://github.com/AwesomeIcon/Radio-CheckboxStyle/blob/master/preview/radio1.gif)
 
 #### Usage
 
