@@ -48,6 +48,7 @@ for (var i = checkboxchoice.length - 1; i >= 0; i--) {
 
 checkboxchoiceall.setAttribute("onclick","clickcheckboxall(this)");
 checkboxchoiceall.style.display = "none";
+checkboxchoiceall.parentNode.style.fontSize = labelHeight + "px";
 checkboxchoiceall.style.margin = 0;
 checkboxchoiceall.parentNode.style.height = labelHeight + "px";
 checkboxchoiceall.parentNode.style.position = "relative";
