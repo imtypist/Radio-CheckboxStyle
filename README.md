@@ -3,8 +3,8 @@
 ### Radio单选框
 
 #### Preview
-![Radio](https://github.com/AwesomeIcon/Radio-CheckboxStyle/blob/master/preview/radio.gif)
-![Radio](https://github.com/AwesomeIcon/Radio-CheckboxStyle/blob/master/preview/radio1.gif)
+![Radio](./preview/radio.gif)
+![Radio](./preview/radio1.gif)
 
 #### Usage
 
@@ -36,7 +36,7 @@ var changeSpeed = "0.5s";
 ### Checkbox复选框
 
 #### Preview
-![Checkbox](https://github.com/AwesomeIcon/Radio-CheckboxStyle/blob/master/preview/checkbox.gif)
+![Checkbox](./preview/checkbox.gif)
 
 #### Usage
 
